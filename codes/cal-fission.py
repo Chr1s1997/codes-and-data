@@ -15,6 +15,6 @@ def main():
     pai = he*4 
     paistring=str(pai) 
     result=paistring[0]+str('.')+paistring[1:len(paistring)] 
-    print("result£º\n\n%s"%result) 
+    print("resultÂ£Âº\n\n%s"%result) 
     time2=time.time() 
-    print('\ntime£º' + str(time2 - time1) + 's') 
+    print('\ntimeÂ£Âº' + str(time2 - time1) + 's') 
